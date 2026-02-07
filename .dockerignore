@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.pyc
+test.db
+*.db
+.git
+.gitignore
+README.md
+REPORT.md
